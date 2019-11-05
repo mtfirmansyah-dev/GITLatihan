@@ -1,0 +1,2 @@
+# GITLatihan
+Sekedar latihan dong
